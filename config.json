@@ -1,0 +1,19 @@
+{
+  "risk_thresholds": {
+    "low_max_pct_of_possible_score": 0.3,
+    "moderate_max_pct_of_possible_score": 0.55,
+    "high_min_pct_of_possible_score": 0.55
+  },
+  "reporting": {
+    "daily_report_time": "after US market close",
+    "weekly_report_day": "Friday",
+    "weekly_report_time": "after US market close"
+  },
+  "future_paid_data_fields": [
+    "S&P 500 forward 12m EPS",
+    "S&P 500 forward P/E",
+    "EPS revision breadth",
+    "sector EPS revisions",
+    "margin expectations"
+  ]
+}
